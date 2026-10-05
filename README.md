@@ -1,8 +1,6 @@
-# Danton.org
-
 <div align="center">
 
-  <img src="assets/banner.svg" alt="Danton-org Banner" width="100%" />
+  <img src="assets/banner.jpg" alt="Danton-org Banner" width="100%" height="60%" />
 
   <br/><br/>
 
