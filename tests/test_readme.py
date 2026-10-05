@@ -1,5 +1,6 @@
 import os
 import xml.etree.ElementTree as ET
+# pyrefly: ignore [missing-import]
 import pytest
 
 ROOT_DIR = os.path.abspath(os.path.join(os.path.dirname(__file__), ".."))
