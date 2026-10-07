@@ -2,15 +2,8 @@
 
 <div align="center">
 
-  <img src="assets/banner.svg" alt="Danton-org Banner" width="100%" />
-
-  <br/><br/>
-
   <a href="https://github.com/Danton-org">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=680&lines=Engenharia+de+Software+de+Alto+Desempenho;Intelig%C3%AAncia+Artificial+%26+Aplica%C3%A7%C3%B5es+em+Sa%C3%BAde;Desenvolvimento+de+Jogos+com+Unity+%26+C%23;Arquitetura+Limpa%2C+DevOps+%26+Qualidade+de+C%C3%B3digo" alt="Typing SVG" />
   </a>
-
-  <br/><br/>
 
   <!-- Status Badges -->
   <a href="https://github.com/Danton-org">
@@ -30,13 +23,13 @@
 
 ---
 
-### 🌐 Sobre a Danton.org
+### Sobre a Danton.org
 
 A **Danton.org** é uma organização de tecnologia focada na concepção, pesquisa e desenvolvimento de soluções de software modernas, inteligência artificial aplicada e experiências interativas em desenvolvimento de jogos.
 
 Nossos projetos combinam **engenharia de software orientada a dados**, **arquitetura limpa**, automação avançada e excelência técnica para entregar ferramentas escaláveis e produtos que transformam ideias em impacto real.
 
-#### 🧭 Nossos Pilares de Atuação
+#### Nossos Pilares de Atuação
 
 <table>
   <tr>
@@ -57,7 +50,7 @@ Nossos projetos combinam **engenharia de software orientada a dados**, **arquite
 
 ---
 
-### 📊 Métricas & Estatísticas da Organização
+### Métricas & Estatísticas da Organização
 
 <div align="center">
 
@@ -97,7 +90,7 @@ Nossos projetos combinam **engenharia de software orientada a dados**, **arquite
 
 ---
 
-### 🚀 Projetos Oficiais da Danton-org
+### Projetos Oficiais da Danton-org
 
 Todos os repositórios oficiais mantidos e desenvolvidos sob o escopo da organização **Danton-org**:
 
@@ -109,7 +102,7 @@ Todos os repositórios oficiais mantidos e desenvolvidos sob o escopo da organiz
 
 ---
 
-### 👥 Contribuidores & Membros Mais Ativos
+### Contribuidores & Membros Mais Ativos
 
 O time principal e desenvolvedores que constroem ativamente as soluções da **Danton.org**:
 
@@ -123,7 +116,7 @@ O time principal e desenvolvedores que constroem ativamente as soluções da **D
         <sub><b>Bruno Danton</b></sub>
       </a>
       <br />
-      <span title="Founder & Lead Architect">👑 <b>Lead & Founder</b></span>
+      <span title="Founder & Lead Architect"> <b>Lead & Founder</b></span>
       <br />
       <sub>Engenharia de Software, Backend, Unity & IA</sub>
       <br /><br />
@@ -137,7 +130,7 @@ O time principal e desenvolvedores que constroem ativamente as soluções da **D
         <sub><b>Gabriel Santos de Souza</b></sub>
       </a>
       <br />
-      <span title="Core Software Engineer">🚀 <b>Core Engineer</b></span>
+      <span title="Core Software Engineer"> <b>Core Engineer</b></span>
       <br />
       <sub>Backend, Automação, Scheluding, Testes & DevOps</sub>
       <br /><br />
@@ -151,7 +144,7 @@ O time principal e desenvolvedores que constroem ativamente as soluções da **D
         <sub><b>Everton Carlos</b></sub>
       </a>
       <br />
-      <span title="Game Developer">⚔️ <b>Game Developer</b></span>
+      <span title="Game Developer"> <b>Game Developer</b></span>
       <br />
       <sub>Game Systems, Lógica de Combate, Matemática Aplicada</sub>
       <br /><br />
@@ -165,7 +158,7 @@ O time principal e desenvolvedores que constroem ativamente as soluções da **D
         <sub><b>Dávisson Cavalcante</b></sub>
       </a>
       <br />
-      <span title="Software Engineer">💡 <b>Collaborator</b></span>
+      <span title="Software Engineer"> <b>Collaborator</b></span>
       <br />
       <sub>Engenharia de Software, Full Stack & Integrações</sub>
       <br /><br />
@@ -180,7 +173,7 @@ O time principal e desenvolvedores que constroem ativamente as soluções da **D
 
 ---
 
-### 🛠️ Stack Tecnológica & Ecossistema
+### Stack Tecnológica & Ecossistema
 
 <div align="center">
 
@@ -213,7 +206,7 @@ O time principal e desenvolvedores que constroem ativamente as soluções da **D
 
 ---
 
-### 🛡️ Padrões de Engenharia & Qualidade (CI/CD)
+### Padrões de Engenharia & Qualidade (CI/CD)
 
 Na **Danton.org**, prezamos pela sustentabilidade e confiabilidade do nosso código. Nossos repositórios seguem princípios sólidos de governança de software:
 
@@ -224,7 +217,7 @@ Na **Danton.org**, prezamos pela sustentabilidade e confiabilidade do nosso cód
 
 ---
 
-### 🤝 Como Contribuir
+### Como Contribuir
 
 Contribuições de código, sugestões, relatórios de bugs e melhorias são sempre bem-vindos!
 
@@ -248,9 +241,9 @@ Contribuições de código, sugestões, relatórios de bugs e melhorias são sem
 
 ### 📫 Conecte-se com a Danton.org
 
-- 🏢 **GitHub Org**: [github.com/Danton-org](https://github.com/Danton-org)
-- 👤 **Founder**: [@BrunoDanton](https://github.com/BrunoDanton)
-- 💬 **Discussions & Issues**: Sinta-se à vontade para abrir uma issue nos nossos repositórios públicos para dúvidas, sugestões ou parcerias!
+-  **GitHub Org**: [github.com/Danton-org](https://github.com/Danton-org)
+-  **Founder**: [@BrunoDanton](https://github.com/BrunoDanton)
+-  **Discussions & Issues**: Sinta-se à vontade para abrir uma issue nos nossos repositórios públicos para dúvidas, sugestões ou parcerias!
 
 <br />
 
