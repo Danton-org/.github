@@ -29,34 +29,8 @@ A **Danton.org** é uma organização de tecnologia focada na concepção, pesqu
 
 Nossos projetos combinam **engenharia de software orientada a dados**, **arquitetura limpa**, automação avançada e excelência técnica para entregar ferramentas escaláveis e produtos que transformam ideias em impacto real.
 
-#### Nossos Pilares de Atuação
-
-<table>
-  <tr>
-    <td width="33%" align="center">
-      <h3>🧠 Inteligência Artificial & Saúde</h3>
-      <p>Desenvolvimento de plataformas inteligentes como o <b>DietIA</b>, integrando modelos preditivos, automação via WhatsApp, mensageria e processamento nutricional orientado por IA.</p>
-    </td>
-    <td width="33%" align="center">
-      <h3>🎮 Desenvolvimento de Jogos</h3>
-      <p>Criação de jogos de ação e combate como o <b>CuiaHeads</b>, com combate acelerado, física aplicada, animações fluidas e sistemas modulares em Unity Engine.</p>
-    </td>
-    <td width="33%" align="center">
-      <h3>⚡ Engenharia & Qualidade</h3>
-      <p>Adoção rigorosa de boas práticas: <b>Clean Architecture</b>, microsserviços em FastAPI, containerização com Docker, testes de CI automatizados e integração contínua.</p>
-    </td>
-  </tr>
-</table>
-
----
 
 ### Métricas & Estatísticas da Organização
-
-<div align="center">
-
-  <img src="assets/metrics.svg" alt="Métricas Danton-org" width="100%" />
-
-  <br/><br/>
 
   <table>
     <tr>
@@ -96,9 +70,9 @@ Todos os repositórios oficiais mantidos e desenvolvidos sob o escopo da organiz
 
 | Repositório | Descrição Detalhada | Tecnologias Chave | Status |
 | :--- | :--- | :--- | :---: |
-| [**🍏 Danton-org/DietIA**](https://github.com/Danton-org/DietIA) | **Plataforma Inteligente de Nutrição & Saúde com IA**.<br/>Sistema autônomo com agendador de hidratação e refeições, mensageria via WhatsApp, autenticação robusta (JWT & OTP), geração de planos dietéticos assistidos por IA e arquitetura moderna em microsserviços. | `Python` `FastAPI` `Docker` `PostgreSQL` `Redis` `WhatsApp API` | ![Status: Produção](https://img.shields.io/badge/Status-Em%20Produção-10B981?style=flat-square) |
-| [**⚔️ Danton-org/CuiaHeads-Overpowered-Game**](https://github.com/Danton-org/CuiaHeads-Overpowered-Game) | **Jogo Dinâmico de Ação e Combate em Arena**.<br/>Desenvolvido na Unity Engine, conta com sistema dinâmico de buffs/debuffs, animações de combate personalizadas, controladores responsivos e combate em tempo real. | `Unity` `C#` `HLSL` `New Input System` | ![Status: Em Desenvolvimento](https://img.shields.io/badge/Status-Em%20Desenvolvimento-F59E0B?style=flat-square) |
-| [**🏛️ Danton-org/.github**](https://github.com/Danton-org/.github) | **Governança, CI/CD & Perfil da Organização**.<br/>Central de padronização, automações via GitHub Actions, documentação de governança, templates e apresentação oficial do perfil da organização. | `GitHub Actions` `Markdown` `CI/CD` `Python` `Pytest` | ![Status: Ativo](https://img.shields.io/badge/Status-Ativo-6366F1?style=flat-square) |
+| [**Danton-org/DietIA**](https://github.com/Danton-org/DietIA) | **Plataforma Inteligente de Nutrição & Saúde com IA**.<br/>Sistema autônomo com agendador de hidratação e refeições, mensageria via WhatsApp, autenticação robusta (JWT & OTP), geração de planos dietéticos assistidos por IA e arquitetura moderna em microsserviços. | `Python` `FastAPI` `Docker` `PostgreSQL` `Redis` `WhatsApp API` | ![Status: Produção](https://img.shields.io/badge/Status-Em%20Produção-10B981?style=flat-square) |
+| [**Danton-org/CuiaHeads-Overpowered-Game**](https://github.com/Danton-org/CuiaHeads-Overpowered-Game) | **Jogo Dinâmico de Ação e Combate em Arena**.<br/>Desenvolvido na Unity Engine, conta com sistema dinâmico de buffs/debuffs, animações de combate personalizadas, controladores responsivos e combate em tempo real. | `Unity` `C#` `HLSL` `New Input System` | ![Status: Em Desenvolvimento](https://img.shields.io/badge/Status-Em%20Desenvolvimento-F59E0B?style=flat-square) |
+| [**Danton-org/.github**](https://github.com/Danton-org/.github) | **Governança, CI/CD & Perfil da Organização**.<br/>Central de padronização, automações via GitHub Actions, documentação de governança, templates e apresentação oficial do perfil da organização. | `GitHub Actions` `Markdown` `CI/CD` `Python` `Pytest` | ![Status: Ativo](https://img.shields.io/badge/Status-Ativo-6366F1?style=flat-square) |
 
 ---
 
@@ -136,34 +110,6 @@ O time principal e desenvolvedores que constroem ativamente as soluções da **D
       <br /><br />
       <a href="https://github.com/gbr-ufs">
         <img src="https://img.shields.io/badge/@gbr--ufs-181717?style=flat-square&logo=github" />
-      </a>
-    </td>
-    <td align="center" width="25%">
-      <a href="https://github.com/everto-API">
-        <img src="https://avatars.githubusercontent.com/u/220345420?v=4" width="100px;" alt="Everton Carlos"/><br />
-        <sub><b>Everton Carlos</b></sub>
-      </a>
-      <br />
-      <span title="Game Developer"> <b>Game Developer</b></span>
-      <br />
-      <sub>Game Systems, Lógica de Combate, Matemática Aplicada</sub>
-      <br /><br />
-      <a href="https://github.com/everto-API">
-        <img src="https://img.shields.io/badge/@everto--API-181717?style=flat-square&logo=github" />
-      </a>
-    </td>
-    <td align="center" width="25%">
-      <a href="https://github.com/DavissonC">
-        <img src="https://avatars.githubusercontent.com/u/226534964?v=4" width="100px;" alt="Dávisson Cavalcante"/><br />
-        <sub><b>Dávisson Cavalcante</b></sub>
-      </a>
-      <br />
-      <span title="Software Engineer"> <b>Collaborator</b></span>
-      <br />
-      <sub>Engenharia de Software, Full Stack & Integrações</sub>
-      <br /><br />
-      <a href="https://github.com/DavissonC">
-        <img src="https://img.shields.io/badge/@DavissonC-181717?style=flat-square&logo=github" />
       </a>
     </td>
   </tr>
@@ -210,10 +156,10 @@ O time principal e desenvolvedores que constroem ativamente as soluções da **D
 
 Na **Danton.org**, prezamos pela sustentabilidade e confiabilidade do nosso código. Nossos repositórios seguem princípios sólidos de governança de software:
 
-- **🧪 Testes de CI Obrigatórios**: Antes de efetuar qualquer `git commit` ou aprovar pull requests, todos os testes unitários e de integração de CI devem ser executados localmente e passar com 100% de sucesso.
-- **🏛️ Arquitetura Limpa (Clean Architecture)**: Isolamento estrito de domínios, entidades, casos de uso e adaptadores externos (banco, mensageria, gateways).
-- **📝 Conventional Commits**: Padrão semântico claro para histórico de versões legível (`feat`, `fix`, `refactor`, `docs`, `test`, `chore`).
-- **🔍 Revisão por Pares (Code Review)**: Garantia de qualidade, clareza e compartilhamento de conhecimento em cada contribuição.
+- **Testes de CI Obrigatórios**: Antes de efetuar qualquer `git commit` ou aprovar pull requests, todos os testes unitários e de integração de CI devem ser executados localmente e passar com 100% de sucesso.
+- **Arquitetura Limpa (Clean Architecture)**: Isolamento estrito de domínios, entidades, casos de uso e adaptadores externos (banco, mensageria, gateways).
+- **Conventional Commits**: Padrão semântico claro para histórico de versões legível (`feat`, `fix`, `refactor`, `docs`, `test`, `chore`).
+- **Revisão por Pares (Code Review)**: Garantia de qualidade, clareza e compartilhamento de conhecimento em cada contribuição.
 
 ---
 
